@@ -3,6 +3,7 @@ python program to get the student details
 Author: Adarsh uv
 date 1-10-2024
 '''
+print("hello world")
 Name=input("enter the student name")
 Roll_no=int(input("enter the student name roll no"))
 Roll_no+=1
